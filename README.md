@@ -1,9 +1,3 @@
-# Anonymous Submission
-
-Due to the anonymous GitHub server crashing during submission, we are providing the code in this manner, and all information related to the author has been completely removed from the documentation and this account.
-All identifying information has been removed to comply with double-blind review requirements.
----
-
 ## Overview
 
 We study the privacy risks of LLM-based recommender systems under the in-context learning paradigm by evaluating multiple **membership inference attack strategies**. The attacks probe whether a user–item interaction has appeared in the training data of the underlying model.
